@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-bootstrap-tokenfield",
+  "name": "ember-cli-styleless-tokenfield",
   "dependencies": {
     "jquery": "~2.1.0",
     "ember": "1.10.0",

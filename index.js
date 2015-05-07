@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-bootstrap-tokenfield',
+  name: 'ember-cli-styleless-tokenfield',
 
   included: function(app) {
     this._super.included(app);
