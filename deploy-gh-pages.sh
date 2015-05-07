@@ -1,16 +1,16 @@
 #!/bin/bash
 
-# mkdir ../ember-cli-bootstrap-tokenfield-gh-pages/
-# cd ../ember-cli-bootstrap-tokenfield-gh-pages/
+# mkdir ../ember-cli-styleless-tokenfield-gh-pages/
+# cd ../ember-cli-styleless-tokenfield-gh-pages/
 # git init
-# git remote add origin git@github.com:aethermx/ember-cli-bootstrap-tokenfield.git
+# git remote add origin git@github.com:aatienza/ember-cli-styleless-tokenfield.git
 # git checkout -b gh-pages
 
 ember build --environment='production'
 
-cp -Rv dist/* ../ember-cli-bootstrap-tokenfield-gh-pages/
+cp -Rv dist/* ../ember-cli-styleless-tokenfield-gh-pages/
 
-cd ../ember-cli-bootstrap-tokenfield-gh-pages/
+cd ../ember-cli-styleless-tokenfield-gh-pages/
 
 git add -u .
 
