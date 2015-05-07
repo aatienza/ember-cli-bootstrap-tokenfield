@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-styleless-tokenfield",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Styleless Tokenfield for Ember CLI",
   "directories": {
     "doc": "doc",
